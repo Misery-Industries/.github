@@ -11,7 +11,7 @@
   <hr width="60%"/>
 
   <h2>
-    <img src="https://git.cosmin.gg/Misery.png" width="24" style="vertical-align: text-bottom;">
+    <img src="https://git.Misery.gg/Misery.png" width="24" style="vertical-align: text-bottom;">
     Misery Industries
   </h2>
 
@@ -24,8 +24,8 @@
   <br />
   <br /><br />
 
-  <img src="https://img.shields.io/badge/dynamic/json?label=Authed%20Users&query=$.discord_user_install_count&url=https://api.cosmin.gg/getcount&style=for-the-badge">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Authed%20Servers&query=$.discord_guild_count&url=https://api.cosmin.gg/getcount&style=for-the-badge">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Authed%20Users&query=$.discord_user_install_count&url=https://api.Misery.gg/getcount&style=for-the-badge">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Authed%20Servers&query=$.discord_guild_count&url=https://api.Misery.gg/getcount&style=for-the-badge">
 
   <br />
 
@@ -39,9 +39,9 @@
     <tr>
       <td align="center">
         <a href="https://cursi.ng">
-          <img src="https://raw.githubusercontent.com/Miseryindustries/.github/main/media/cosmin.png" width="100px;">
+          <img src="https://raw.githubusercontent.com/Miseryindustries/.github/main/media/Misery.png" width="100px;">
           <br />
-          <sub><b>Cosmin</b></sub>
+          <sub><b>Misery</b></sub>
         </a>
         <br />
         <a href="https://github.com/csynholic">⌨️ Owner</a>
